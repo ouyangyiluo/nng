@@ -12,7 +12,6 @@ endif::[]
 // Note: If you're updating this file, don't forget to re-run asciidoctor
 // to update the aforementioned HTML file!
 
-image:https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg[Stand With Ukraine,link="https://stand-with-ukraine.pp.ua"]
 image:https://img.shields.io/github/actions/workflow/status/nanomsg/nng/linux.yml?branch=master&logoColor=grey&logo=ubuntu&label=[Linux Status,link="https://github.com/nanomsg/nng/actions"]
 image:https://img.shields.io/github/actions/workflow/status/nanomsg/nng/windows.yml?branch=master&logoColor=grey&logo=windows&label=[Windows Status,link="https://github.com/nanomsg/nng/actions"]
 image:https://img.shields.io/github/actions/workflow/status/nanomsg/nng/darwin.yml?branch=master&logoColor=grey&logo=apple&label=[macOS Status,link="https://github.com/nanomsg/nng/actions"]
